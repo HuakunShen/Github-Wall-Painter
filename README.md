@@ -13,4 +13,4 @@ All four variables should be integers. The first three variables represent the s
 
 `count` represent the number of wall tiles (days) you want to paint green.
 
-<a href="https://www.youtube.com/watch?v=w6SQUTZIpGU&feature=youtu.be" Demo Video>
+<a href="https://www.youtube.com/watch?v=w6SQUTZIpGU&feature=youtu.be">Demo Video</a>
