@@ -17,4 +17,4 @@ All four variables should be integers. The first three variables represent the s
 
 [![](http://img.youtube.com/vi/w6SQUTZIpGU/0.jpg)](http://www.youtube.com/watch?v=w6SQUTZIpGU "Github Wall Painter")
 
-<img src="/Users/huakunshen/Downloads/metro_github_wall.jpg" alt="metro_github_wall" style="zoom:150%;" />
+<img src="README.assets/metro_github_wall.jpg" alt="metro_github_wall" style="zoom:150%;" />
